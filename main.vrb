@@ -1,0 +1,9 @@
+\frametitle{Pictures}
+\begin{lstlisting}
+  \begin{figure}[h!]
+    \includegraphics{/path/to/figure}
+    \caption{}
+    \label{}
+  \end{figure}
+\end{lstlisting}
+\onslide<2->The \verb|[h!]| component tells \LaTeX \text{ }to put the image exactly where you told it to. A big one-up on Word.

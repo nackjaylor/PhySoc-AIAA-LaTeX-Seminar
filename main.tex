@@ -1,9 +1,19 @@
-\documentclass[10pt]{beamer}
+\documentclass[10pt,aspectratio=169]{beamer}
 \usepackage{preamble}
 \usetheme{metropolis}
 \usepackage{appendixnumberbeamer}
 \usepackage{animate}
 \usepackage{media9}
+\usepackage{listings}
+\usepackage[export]{adjustbox}
+\lstset
+{
+    language=[LaTeX]TeX,
+    breaklines=true,
+    basicstyle=\tt\scriptsize,
+    keywordstyle=\color{blue},
+    identifierstyle=\color{magenta},
+}
 \title{Getting Started with \text{\LaTeX}}
 \subtitle{And why I don't use Word anymore}
 \date{\today}
@@ -22,7 +32,7 @@
 \item Much easier to cite references (i.e. automatic footnotes, hyperlinking etc.)
 \item Separates content from the formatting of documents
 \end{itemize}
-\item Far more control over many aspects of the document
+\onslide<2->\item Far more control over many aspects of the document
 \begin{itemize}
 \item Backend rather than frontend (e.g. Word)
 \item Images won't disappear when moved slightly
@@ -114,7 +124,7 @@ GIFS:
 Using gnuplot:
 \begin{figure}
 \centering
-\begin{tikzpicture}[scale=0.8]
+\begin{tikzpicture}[scale=0.7]
 \begin{axis}[xlabel = x,
             ylabel = y]
 \addplot gnuplot {sin(x)};
@@ -155,7 +165,7 @@ Using gnuplot:
 MATLAB Plots:
 \begin{figure}
 \centering
-\includegraphics[width=\textwidth]{diffpay.eps}
+\includegraphics[height=\textheight]{diffpay.eps}
 \caption{Simulated Falcon Heavy motion}
 \end{figure}
 \end{frame}
@@ -190,7 +200,7 @@ MATLAB Plots:
 \item Not the prettiest
 \item THE WHITE - IT BURNS
 \end{itemize}
-\item[Overleaf] Web based, cloud storage. The \alert{Google Docs} of \LaTeX.
+\onslide<2->\item[Overleaf] Web based, cloud storage. The \alert{Google Docs} of \LaTeX.
 \begin{itemize}
 \item Very easy to use
 \item GitHub integration
@@ -205,5 +215,127 @@ MATLAB Plots:
 We'll be using \alert{Overleaf}\\
 \texttt{overleaf.com}
 \end{frame}
-\section{Other Programs To Consider}
+\begin{frame}{Starting off a Document}
+\begin{description}
+\item[Define document class:]\hfill\\ \vspace{0.5cm}\texttt{{\textbackslash}documentclass[12pt]\{article\}}\hfill\\ \vspace{1cm}
+\item[Begin document:]\hfill\\\vspace{0.5cm}
+\texttt{{\textbackslash}begin\{document\}\hfill\\
+\vspace{0.5cm}
+<insert document content here>\hfill\\
+\vspace{0.5cm}
+{\textbackslash}end\{document\}}
+\end{description}
+\end{frame}
+\begin{frame}
+\centering
+\large{Well done! You've just told \LaTeX\text{ }to create a new, blank document!\\
+So... is that it?}
+\end{frame}
+\begin{frame}
+\centering
+\Huge{Not in the slightest!}
+\end{frame}
+
+\begin{frame}{The Preamble}
+Everything before \texttt{{\textbackslash}begin\{document\}} is known as the \alert{preamble}. Let's start customising this.
+\end{frame}
+
+\begin{frame}[fragile]
+  \begin{center}
+  \Large{\begin{lstlisting}
+  \documentclass{article}
+  \title{My Title}
+  \author{My Name}
+  \date{\today}
+  \begin{document}
+  \maketitle
+  ...
+  \end{document}
+  \end{lstlisting}}
+\end{center}
+\end{frame}
+\begin{frame}[fragile]{Sections}
+  \begin{center}
+  \Large{\begin{lstlisting}
+  \documentclass{article}
+  \title{My Title}
+  \author{My Name}
+  \date{\today}
+  \begin{document}
+  \maketitle
+  \section{My Section Name}
+  ...
+  \end{document}
+  \end{lstlisting}}
+\end{center}
+\onslide<2->Bonus: try adding \verb|\makecontents| after \verb|\maketitle|
+\end{frame}
+\begin{frame}[fragile]{Maths}
+Maths can be added pretty easily:
+\begin{itemize}
+  \item<1-> \verb|$\tan\alpha$| gives $\tan\alpha$
+  \item<2-> \small{\verb|\[\int_{-\infty}^\infty \frac{\cos x}{x^2+1} dx = \frac{\pi}{e}\]| gives} \[\int_{-\infty}^\infty \frac{\cos x}{x^2+1} dx = \frac{\pi}{e}\]
+\end{itemize}
+\onslide<3-> Maths also comes in environments:\\
+E.g. \verb|\begin{equation}...\end{equation}|
+  \begin{equation}
+   \frac{\dd \sin x}{\dd \cos x} = -\cot x
+  \end{equation}
+\onslide<4-> and \verb|\begin{align*}...\end{align*}|
+  \begin{align*}
+  F(s)&= \mathcal{L}\{t\}\\
+  &= \frac{1}{s}
+  \end{align*}
+\end{frame}
+\begin{frame}[fragile]{Packages}
+  You'll notice that \verb|align*| doesn't work. The reason is, you haven't added the package necessary yet.\\
+  Try including \verb|\usepackage{amsmath}| in your preamble.\hfill\\
+  \vspace{3cm}
+\onslide<2->  After you've checked that works - load the \verb|graphics| package.
+\end{frame}
+\begin{frame}[fragile]{Pictures}
+  \begin{lstlisting}
+  \begin{figure}[h!]
+    \includegraphics{/path/to/figure}
+    \caption{}
+    \label{}
+  \end{figure}
+\end{lstlisting}
+\onslide<2->The \verb|[h!]| component tells \LaTeX \text{ }to put the image exactly where you told it to. A big one-up on Word.
+\end{frame}
+\begin{frame}{The best way to keep learning}
+There is thousands of packages for different things! The only way you can learn them is by going through and using them in documents. \alert{Stackexchange is your friend}.\\
+\vspace{1cm}
+\onslide<2->The best way of continuing to learn \LaTeX \text{ }is to \alert{keep using it}. We've only touched the tip of the iceberg as to what \LaTeX \text{ }can do!\\
+\vspace{1cm}
+\onslide<3->Other things you can have \LaTeX \text{ }do:
+\begin{itemize}
+  \item<4-> Solve differential equations
+  \item<5->  Plot natively in the document
+  \item<6->  Presentations (like this one!)
+\end{itemize}
+\end{frame}
+\section{Other programs to help create nice looking documents in \LaTeX}
+\begin{frame}
+  \begin{description}
+    \item[TikzEdt]<1-> Semi-graphical tikz editor - very similar to the semiconductor drawing I showed earlier
+    \item[gnuplot]<2-> Did those very nice plots earlier
+    \item[MATLAB]<3-> You can change labels/figure ticks so they look like they're native to \LaTeX. \alert{Extremely} good integration
+    \item[ImageMagick]<4-> Handy command line image editor
+  \end{description}
+\end{frame}
+\begin{frame}
+  \begin{columns}[c]
+      \begin{column}{.5\textwidth}
+        \vfill
+       Jack Naylor\\
+       jack.naylor@sydney.edu.au
+       \vfill
+      \end{column}
+      \begin{column}{.5\textwidth}
+\adjincludegraphics[height=1.3\textheight,trim={{.225\width} 0 {.25\width} 0},clip]{floor}
+      \end{column}
+    \end{columns}
+\end{frame}
+
 \end{document}
