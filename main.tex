@@ -109,7 +109,55 @@ GIFS:
     \end{subequations}
 \end{itemize}
 
-
+\end{frame}
+\begin{frame}{Plots}
+Using gnuplot:
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=0.8]
+\begin{axis}[xlabel = x,
+            ylabel = y]
+\addplot gnuplot {sin(x)};
+\addlegendentry{$y=\sin(x)$} 
+\end{axis}
+\end{tikzpicture}
+\end{figure}
+\end{frame}
+\begin{frame}
+\begin{figure}
+\centering
+\begin{tikzpicture}[scale=1.75]
+\begin{axis}[axis equal image,axis lines=none,view={150}{40},]
+\addplot3 [raw gnuplot,mesh] gnuplot [mesh]{
+   set parametric;
+   set pm3d explicit;
+   set pal rgb 9,9,3;
+   set hidden3d;
+   set isosamples 18,48;
+   set xrange[-8:10];
+   set yrange[-9:9];
+   set urange[0:2*pi];
+   set vrange[0:4*pi];
+   x(u,v)= v<pi ? (2.5-1.5*cos(v))*cos(u): v<2*pi ? (2.5-1.5*cos(v))*cos(u): v<3*pi ? -2+(2+cos(u))*cos(v): -2+2*cos(v)-cos(u);
+   y(u,v)= v<pi ? (2.5-1.5*cos(v))*sin(u):  v<2*pi ? (2.5-1.5*cos(v))*sin(u):  v<3*pi ? sin(u): sin(u);
+   z(u,v)= v<pi ? -2.5*sin(v): v < 2*pi ? 3*v-3*pi: v<3*pi ? (2+cos(u))*sin(v)+3*pi: -3*v+12*pi;
+   set multiplot;
+   splot x(u,v),y(u,v),-z(u,v) w pm3d;
+   splot x(u,v),y(u,v),-z(u,v) lt 4;
+   unset multiplot;
+};
+\end{axis}
+\end{tikzpicture}
+\caption{A Klein Bottle plotted via pgfplots/gnuplot}
+\end{figure}
+\end{frame}
+\begin{frame}
+MATLAB Plots:
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{diffpay.eps}
+\caption{Simulated Falcon Heavy motion}
+\end{figure}
 \end{frame}
 \begin{frame}{Other Cool Stuff}
 \centering
@@ -119,4 +167,38 @@ GIFS:
     activate=pageopen,deactivate=pageclose,
   ]{}{MUGSMUGs.U3D}
 \end{frame}
+\begin{frame}
+\centering
+\includemedia[
+  width=\textwidth,height=0.75\textheight,
+  activate=pageopen,
+  flashvars={
+  modestbranding=1 % no YT logo in control bar
+  &autohide=1 % controlbar autohide
+  &showinfo=0 % no title and other info before start
+  &rel=0 % no related videos after end
+}
+]{}{http://www.youtube.com/v/diLp6hUqvVk}
+\end{frame}
+\section{I'm interested! How do I start learning?}
+\begin{frame}{Programs/Compilers}
+\begin{description}
+\item[MikTex] Standalone \LaTeX compiler and editor. Good for local installations on Windows.
+\begin{itemize}
+\item Very easy to use
+\item Good package support from CTAN (Comprehensive TeX Archive Network)
+\item Not the prettiest
+\item THE WHITE - IT BURNS
+\end{itemize}
+\item[Overleaf] Web based, cloud storage. The \alert{Google Docs} of \LaTeX.
+\begin{itemize}
+\item Very easy to use
+\item GitHub integration
+\item Free Pro+ account by registering as a USYD student/staff member
+\item Multiple author editing
+\item Some packages might not be recognisable
+\end{itemize}
+\end{description}
+\end{frame}
+\section{Other Programs To Consider}
 \end{document}
