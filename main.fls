@@ -1,1308 +1,1323 @@
-PWD C:/Users/Lenovo/Documents/GitHub/PhySoc-AIAA-LaTeX-Seminar
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT main.tex
-OUTPUT main.log
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamer.cls
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamer.cls
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasemodes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasemodes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/etoolbox/etoolbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/etoolbox/etoolbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasedecode.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasedecode.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseoptions.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseoptions.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/keyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/size10.clo
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgfcore.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgfcore.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphics.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/graphics.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/trig.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/trig.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/systemlayer/pgfsys.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/systemlayer/pgfsys.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfrcs.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfrcs.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-common.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-common-lists.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-latex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ms/everyshi.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ms/everyshi.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgf.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathcalc.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathutil.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathparser.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfloat.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/xxcolor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/xxcolor.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/atbegshi.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/atbegshi.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/hobsub-generic.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/auxhook.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/pd1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/00miktex/hyperref.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/url/url.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/url/url.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaserequires.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaserequires.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasecompatibility.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasecompatibility.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasefont.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasefont.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/sansmathaccent/sansmathaccent.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/sansmathaccent/sansmathaccent.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/sansmathaccent/sansmathaccent.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/filehook/filehook.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/filehook/filehook.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/filehook/filehook.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetranslator.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetranslator.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasemisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasemisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetwoscreens.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetwoscreens.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseoverlay.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseoverlay.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetitle.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetitle.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasesection.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasesection.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframe.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframe.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseverbatim.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseverbatim.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframesize.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframesize.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframecomponents.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseframecomponents.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasecolor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasecolor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasenotes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasenotes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetoc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetoc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetemplates.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetemplates.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseauxtemplates.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseauxtemplates.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseboxes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaseboxes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaselocalstructure.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbaselocalstructure.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/enumerate.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/enumerate.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasenavigation.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasenavigation.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetheorems.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasetheorems.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amscls/amsthm.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amscls/amsthm.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasethemes.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerbasethemes.sty
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss10.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerfontthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerfontthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamercolorthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamercolorthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerinnerthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerinnerthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.pdf
-OUTPUT main.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonbook.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericonarticle.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamericononline.20.pdf
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerouterthemedefault.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/beamerouterthemedefault.sty
-INPUT preamble.sty
-INPUT preamble.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/subcaption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/subcaption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/wrapfig/wrapfig.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/wrapfig/wrapfig.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/physics/physics.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/physics/physics.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/xparse/xparse.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/xparse/xparse.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3-code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/expl3-code.tex
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/unicode-data/UnicodeData.txt
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/unicode-data/UnicodeData.txt
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/l3pdfmode.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3kernel/l3pdfmode.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/float/float.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/float/float.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/scalerel/scalerel.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/scalerel/scalerel.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/calc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/calc.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/carlisle/ltxtable.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/carlisle/ltxtable.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/tabularx.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/tabularx.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/multicol.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/multicol.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/booktabs/booktabs.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/booktabs/booktabs.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/filecontents/filecontents.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/filecontents/filecontents.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mathtools/mathtools.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mathtools/mathtools.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mathtools/mhsetup.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mathtools/mhsetup.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/frontendlayer/tikz.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/frontendlayer/tikz.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgf.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgf.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgffor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgffor.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/math/pgfmath.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/math/pgfmath.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/fancyhdr/fancyhdr.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/fancyhdr/fancyhdr.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplots.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplots.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-luatex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotscore.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgflibraryfpu.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfmathfloat.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_leq.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsutil.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotscolor.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsstackedplots.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.scaling.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.errorbars.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.markers.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsticks.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.paths.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mhchem/mhchem.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/mhchem/mhchem.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/chemgreek/chemgreek.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/chemgreek/chemgreek.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/stackengine/stackengine.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/stackengine/stackengine.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listofitems/listofitems.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listofitems/listofitems.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/listofitems/listofitems.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/tikzlibrarypgfplots.fillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryintersections.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryintersections.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryintersections.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorations.softclip.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorations.softclip.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetween.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgflibraryintersections.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decorations.softclip.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/tikzlibrarypgfplots.decorations.softclip.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/matlab-prettifier/matlab-prettifier.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/matlab-prettifier/matlab-prettifier.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/textcomp.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/textcomp.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1enc.def
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1enc.dfu
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1enc.dfu
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/listings.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/listings.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/listings.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/listings.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplotstable.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplotstable.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstable.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstable.coltype.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymath.code.tex
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfopts/pgfopts.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfopts/pgfopts.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/animate/animate.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/animate/animate.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/xkeyval/xkeyval.tex
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/xkeyval/xkvutils.tex
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ifthen.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ifthen.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/ifdraft.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/ifdraft.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/media9/pdfbase.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/media9/pdfbase.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ocgx2/ocgbase.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ocgx2/ocgbase.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/media9/media9.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/media9/media9.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/adjustbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/adjustbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/adjcalc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/adjcalc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/trimclip.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/trimclip.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/collectbox/collectbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/collectbox/collectbox.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/tc-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/adjustbox/tc-pdftex.def
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ifoddpage/ifoddpage.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ifoddpage/ifoddpage.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/ifoddpage/ifoddpage.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/varwidth/varwidth.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/varwidth/varwidth.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/varwidth/varwidth.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang1.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang2.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstlang3.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/listings/lstmisc.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/pgfplotsthemetol.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/beamertheme-metropolis/pgfplotsthemetol.sty
-INPUT main.aux
-INPUT main.aux
-OUTPUT main.aux
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1cmr.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1cmr.fd
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/context/base/supp-pdf.mkii
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/nameref.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/generic/oberdiek/gettitlestring.sty
-INPUT main.out
-INPUT main.out
-INPUT main.out
-INPUT main.out
-INPUT ./main.out
-INPUT ./main.out
-OUTPUT main.out
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-bibliography-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-bibliography-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-environment-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-environment-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-months-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-months-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-numbers-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-numbers-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-theorem-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/translator/translator-theorem-dictionary-English.dict
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/ltcaption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/ltcaption.sty
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT main.nav
-INPUT main.nav
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
-INPUT reclogo.png
-INPUT ./reclogo.png
-INPUT ./reclogo.png
-INPUT ./reclogo.png
-INPUT ./reclogo.png
-INPUT aiaa-logo-blue.png
-INPUT ./aiaa-logo-blue.png
-INPUT ./aiaa-logo-blue.png
-INPUT ./aiaa-logo-blue.png
-INPUT ./aiaa-logo-blue.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss9.tfm
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1cmss.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/base/ts1cmss.fd
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/jknappen/ec/tcss1000.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/jknappen/ec/tcss0900.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/jknappen/ec/tcss0800.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssi8.tfm
-INPUT ariba.jpg
-INPUT ./ariba.jpg
-INPUT ./ariba.jpg
-INPUT ./ariba.jpg
-INPUT ./ariba.jpg
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi9.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy9.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt9.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi9.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT elon/new-0.png
-INPUT ./elon/new-0.png
-INPUT elon/new-0.png
-INPUT ./elon/new-0.png
-INPUT ./elon/new-0.png
-INPUT ./elon/new-0.png
-INPUT ./elon/new-0.png
-INPUT elon/new-1.png
-INPUT ./elon/new-1.png
-INPUT elon/new-1.png
-INPUT ./elon/new-1.png
-INPUT ./elon/new-1.png
-INPUT ./elon/new-1.png
-INPUT ./elon/new-1.png
-INPUT elon/new-2.png
-INPUT ./elon/new-2.png
-INPUT elon/new-2.png
-INPUT ./elon/new-2.png
-INPUT ./elon/new-2.png
-INPUT ./elon/new-2.png
-INPUT ./elon/new-2.png
-INPUT elon/new-3.png
-INPUT ./elon/new-3.png
-INPUT elon/new-3.png
-INPUT ./elon/new-3.png
-INPUT ./elon/new-3.png
-INPUT ./elon/new-3.png
-INPUT ./elon/new-3.png
-INPUT elon/new-4.png
-INPUT ./elon/new-4.png
-INPUT elon/new-4.png
-INPUT ./elon/new-4.png
-INPUT ./elon/new-4.png
-INPUT ./elon/new-4.png
-INPUT ./elon/new-4.png
-INPUT elon/new-5.png
-INPUT ./elon/new-5.png
-INPUT elon/new-5.png
-INPUT ./elon/new-5.png
-INPUT ./elon/new-5.png
-INPUT ./elon/new-5.png
-INPUT ./elon/new-5.png
-INPUT elon/new-6.png
-INPUT ./elon/new-6.png
-INPUT elon/new-6.png
-INPUT ./elon/new-6.png
-INPUT ./elon/new-6.png
-INPUT ./elon/new-6.png
-INPUT ./elon/new-6.png
-INPUT elon/new-7.png
-INPUT ./elon/new-7.png
-INPUT elon/new-7.png
-INPUT ./elon/new-7.png
-INPUT ./elon/new-7.png
-INPUT ./elon/new-7.png
-INPUT ./elon/new-7.png
-INPUT elon/new-8.png
-INPUT ./elon/new-8.png
-INPUT elon/new-8.png
-INPUT ./elon/new-8.png
-INPUT ./elon/new-8.png
-INPUT ./elon/new-8.png
-INPUT ./elon/new-8.png
-INPUT elon/new-9.png
-INPUT ./elon/new-9.png
-INPUT elon/new-9.png
-INPUT ./elon/new-9.png
-INPUT ./elon/new-9.png
-INPUT ./elon/new-9.png
-INPUT ./elon/new-9.png
-INPUT elon/new-10.png
-INPUT ./elon/new-10.png
-INPUT elon/new-10.png
-INPUT ./elon/new-10.png
-INPUT ./elon/new-10.png
-INPUT ./elon/new-10.png
-INPUT ./elon/new-10.png
-INPUT elon/new-11.png
-INPUT ./elon/new-11.png
-INPUT elon/new-11.png
-INPUT ./elon/new-11.png
-INPUT ./elon/new-11.png
-INPUT ./elon/new-11.png
-INPUT ./elon/new-11.png
-INPUT elon/new-12.png
-INPUT ./elon/new-12.png
-INPUT elon/new-12.png
-INPUT ./elon/new-12.png
-INPUT ./elon/new-12.png
-INPUT ./elon/new-12.png
-INPUT ./elon/new-12.png
-INPUT elon/new-13.png
-INPUT ./elon/new-13.png
-INPUT elon/new-13.png
-INPUT ./elon/new-13.png
-INPUT ./elon/new-13.png
-INPUT ./elon/new-13.png
-INPUT ./elon/new-13.png
-INPUT elon/new-14.png
-INPUT ./elon/new-14.png
-INPUT elon/new-14.png
-INPUT ./elon/new-14.png
-INPUT ./elon/new-14.png
-INPUT ./elon/new-14.png
-INPUT ./elon/new-14.png
-INPUT elon/new-15.png
-INPUT ./elon/new-15.png
-INPUT elon/new-15.png
-INPUT ./elon/new-15.png
-INPUT ./elon/new-15.png
-INPUT ./elon/new-15.png
-INPUT ./elon/new-15.png
-INPUT elon/new-16.png
-INPUT ./elon/new-16.png
-INPUT elon/new-16.png
-INPUT ./elon/new-16.png
-INPUT ./elon/new-16.png
-INPUT ./elon/new-16.png
-INPUT ./elon/new-16.png
-INPUT elon/new-17.png
-INPUT ./elon/new-17.png
-INPUT elon/new-17.png
-INPUT ./elon/new-17.png
-INPUT ./elon/new-17.png
-INPUT ./elon/new-17.png
-INPUT ./elon/new-17.png
-INPUT elon/new-18.png
-INPUT ./elon/new-18.png
-INPUT elon/new-18.png
-INPUT ./elon/new-18.png
-INPUT ./elon/new-18.png
-INPUT ./elon/new-18.png
-INPUT ./elon/new-18.png
-INPUT elon/new-19.png
-INPUT ./elon/new-19.png
-INPUT elon/new-19.png
-INPUT ./elon/new-19.png
-INPUT ./elon/new-19.png
-INPUT ./elon/new-19.png
-INPUT ./elon/new-19.png
-INPUT elon/new-20.png
-INPUT ./elon/new-20.png
-INPUT elon/new-20.png
-INPUT ./elon/new-20.png
-INPUT ./elon/new-20.png
-INPUT ./elon/new-20.png
-INPUT ./elon/new-20.png
-INPUT elon/new-21.png
-INPUT ./elon/new-21.png
-INPUT elon/new-21.png
-INPUT ./elon/new-21.png
-INPUT ./elon/new-21.png
-INPUT ./elon/new-21.png
-INPUT ./elon/new-21.png
-INPUT elon/new-22.png
-INPUT ./elon/new-22.png
-INPUT elon/new-22.png
-INPUT ./elon/new-22.png
-INPUT ./elon/new-22.png
-INPUT ./elon/new-22.png
-INPUT ./elon/new-22.png
-INPUT elon/new-23.png
-INPUT ./elon/new-23.png
-INPUT elon/new-23.png
-INPUT ./elon/new-23.png
-INPUT ./elon/new-23.png
-INPUT ./elon/new-23.png
-INPUT ./elon/new-23.png
-INPUT elon/new-24.png
-INPUT ./elon/new-24.png
-INPUT elon/new-24.png
-INPUT ./elon/new-24.png
-INPUT ./elon/new-24.png
-INPUT ./elon/new-24.png
-INPUT ./elon/new-24.png
-INPUT elon/new-25.png
-INPUT ./elon/new-25.png
-INPUT elon/new-25.png
-INPUT ./elon/new-25.png
-INPUT ./elon/new-25.png
-INPUT ./elon/new-25.png
-INPUT ./elon/new-25.png
-INPUT elon/new-26.png
-INPUT ./elon/new-26.png
-INPUT elon/new-26.png
-INPUT ./elon/new-26.png
-INPUT ./elon/new-26.png
-INPUT ./elon/new-26.png
-INPUT ./elon/new-26.png
-INPUT elon/new-27.png
-INPUT ./elon/new-27.png
-INPUT elon/new-27.png
-INPUT ./elon/new-27.png
-INPUT ./elon/new-27.png
-INPUT ./elon/new-27.png
-INPUT ./elon/new-27.png
-INPUT elon/new-28.png
-INPUT ./elon/new-28.png
-INPUT elon/new-28.png
-INPUT ./elon/new-28.png
-INPUT ./elon/new-28.png
-INPUT ./elon/new-28.png
-INPUT ./elon/new-28.png
-INPUT elon/new-29.png
-INPUT ./elon/new-29.png
-INPUT elon/new-29.png
-INPUT ./elon/new-29.png
-INPUT ./elon/new-29.png
-INPUT ./elon/new-29.png
-INPUT ./elon/new-29.png
-INPUT elon/new-30.png
-INPUT ./elon/new-30.png
-INPUT elon/new-30.png
-INPUT ./elon/new-30.png
-INPUT ./elon/new-30.png
-INPUT ./elon/new-30.png
-INPUT ./elon/new-30.png
-INPUT elon/new-31.png
-INPUT ./elon/new-31.png
-INPUT elon/new-31.png
-INPUT ./elon/new-31.png
-INPUT ./elon/new-31.png
-INPUT ./elon/new-31.png
-INPUT ./elon/new-31.png
-INPUT elon/new-32.png
-INPUT ./elon/new-32.png
-INPUT elon/new-32.png
-INPUT ./elon/new-32.png
-INPUT ./elon/new-32.png
-INPUT ./elon/new-32.png
-INPUT ./elon/new-32.png
-INPUT elon/new-33.png
-INPUT ./elon/new-33.png
-INPUT elon/new-33.png
-INPUT ./elon/new-33.png
-INPUT ./elon/new-33.png
-INPUT ./elon/new-33.png
-INPUT ./elon/new-33.png
-INPUT elon/new-34.png
-INPUT ./elon/new-34.png
-INPUT elon/new-34.png
-INPUT ./elon/new-34.png
-INPUT ./elon/new-34.png
-INPUT ./elon/new-34.png
-INPUT ./elon/new-34.png
-INPUT elon/new-35.png
-INPUT ./elon/new-35.png
-INPUT elon/new-35.png
-INPUT ./elon/new-35.png
-INPUT ./elon/new-35.png
-INPUT ./elon/new-35.png
-INPUT ./elon/new-35.png
-INPUT elon/new-36.png
-INPUT ./elon/new-36.png
-INPUT elon/new-36.png
-INPUT ./elon/new-36.png
-INPUT ./elon/new-36.png
-INPUT ./elon/new-36.png
-INPUT ./elon/new-36.png
-INPUT elon/new-37.png
-INPUT ./elon/new-37.png
-INPUT elon/new-37.png
-INPUT ./elon/new-37.png
-INPUT ./elon/new-37.png
-INPUT ./elon/new-37.png
-INPUT ./elon/new-37.png
-INPUT elon/new-38.png
-INPUT ./elon/new-38.png
-INPUT elon/new-38.png
-INPUT ./elon/new-38.png
-INPUT ./elon/new-38.png
-INPUT ./elon/new-38.png
-INPUT ./elon/new-38.png
-INPUT elon/new-39.png
-INPUT ./elon/new-39.png
-INPUT elon/new-39.png
-INPUT ./elon/new-39.png
-INPUT ./elon/new-39.png
-INPUT ./elon/new-39.png
-INPUT ./elon/new-39.png
-INPUT elon/new-40.png
-INPUT ./elon/new-40.png
-INPUT elon/new-40.png
-INPUT ./elon/new-40.png
-INPUT ./elon/new-40.png
-INPUT ./elon/new-40.png
-INPUT ./elon/new-40.png
-INPUT elon/new-41.png
-INPUT ./elon/new-41.png
-INPUT elon/new-41.png
-INPUT ./elon/new-41.png
-INPUT ./elon/new-41.png
-INPUT ./elon/new-41.png
-INPUT ./elon/new-41.png
-INPUT elon/new-42.png
-INPUT ./elon/new-42.png
-INPUT elon/new-42.png
-INPUT ./elon/new-42.png
-INPUT ./elon/new-42.png
-INPUT ./elon/new-42.png
-INPUT ./elon/new-42.png
-INPUT elon/new-43.png
-INPUT ./elon/new-43.png
-INPUT elon/new-43.png
-INPUT ./elon/new-43.png
-INPUT ./elon/new-43.png
-INPUT ./elon/new-43.png
-INPUT ./elon/new-43.png
-INPUT elon/new-44.png
-INPUT ./elon/new-44.png
-INPUT elon/new-44.png
-INPUT ./elon/new-44.png
-INPUT ./elon/new-44.png
-INPUT ./elon/new-44.png
-INPUT ./elon/new-44.png
-INPUT elon/new-45.png
-INPUT ./elon/new-45.png
-INPUT elon/new-45.png
-INPUT ./elon/new-45.png
-INPUT ./elon/new-45.png
-INPUT ./elon/new-45.png
-INPUT ./elon/new-45.png
-INPUT elon/new-46.png
-INPUT ./elon/new-46.png
-INPUT elon/new-46.png
-INPUT ./elon/new-46.png
-INPUT ./elon/new-46.png
-INPUT ./elon/new-46.png
-INPUT ./elon/new-46.png
-INPUT elon/new-47.png
-INPUT ./elon/new-47.png
-INPUT elon/new-47.png
-INPUT ./elon/new-47.png
-INPUT ./elon/new-47.png
-INPUT ./elon/new-47.png
-INPUT ./elon/new-47.png
-INPUT elon/new-48.png
-INPUT ./elon/new-48.png
-INPUT elon/new-48.png
-INPUT ./elon/new-48.png
-INPUT ./elon/new-48.png
-INPUT ./elon/new-48.png
-INPUT ./elon/new-48.png
-INPUT elon/new-49.png
-INPUT ./elon/new-49.png
-INPUT elon/new-49.png
-INPUT ./elon/new-49.png
-INPUT ./elon/new-49.png
-INPUT ./elon/new-49.png
-INPUT ./elon/new-49.png
-INPUT elon/new-50.png
-INPUT ./elon/new-50.png
-INPUT elon/new-50.png
-INPUT ./elon/new-50.png
-INPUT ./elon/new-50.png
-INPUT ./elon/new-50.png
-INPUT ./elon/new-50.png
-INPUT elon/new-51.png
-INPUT ./elon/new-51.png
-INPUT elon/new-51.png
-INPUT ./elon/new-51.png
-INPUT ./elon/new-51.png
-INPUT ./elon/new-51.png
-INPUT ./elon/new-51.png
-INPUT elon/new-52.png
-INPUT ./elon/new-52.png
-INPUT elon/new-52.png
-INPUT ./elon/new-52.png
-INPUT ./elon/new-52.png
-INPUT ./elon/new-52.png
-INPUT ./elon/new-52.png
-INPUT elon/new-53.png
-INPUT ./elon/new-53.png
-INPUT elon/new-53.png
-INPUT ./elon/new-53.png
-INPUT ./elon/new-53.png
-INPUT ./elon/new-53.png
-INPUT ./elon/new-53.png
-INPUT elon/new-54.png
-INPUT ./elon/new-54.png
-INPUT elon/new-54.png
-INPUT ./elon/new-54.png
-INPUT ./elon/new-54.png
-INPUT ./elon/new-54.png
-INPUT ./elon/new-54.png
-INPUT elon/new-55.png
-INPUT ./elon/new-55.png
-INPUT elon/new-55.png
-INPUT ./elon/new-55.png
-INPUT ./elon/new-55.png
-INPUT ./elon/new-55.png
-INPUT ./elon/new-55.png
-INPUT elon/new-56.png
-INPUT ./elon/new-56.png
-INPUT elon/new-56.png
-INPUT ./elon/new-56.png
-INPUT ./elon/new-56.png
-INPUT ./elon/new-56.png
-INPUT ./elon/new-56.png
-INPUT elon/new-57.png
-INPUT ./elon/new-57.png
-INPUT elon/new-57.png
-INPUT ./elon/new-57.png
-INPUT ./elon/new-57.png
-INPUT ./elon/new-57.png
-INPUT ./elon/new-57.png
-INPUT elon/new-58.png
-INPUT ./elon/new-58.png
-INPUT elon/new-58.png
-INPUT ./elon/new-58.png
-INPUT ./elon/new-58.png
-INPUT ./elon/new-58.png
-INPUT ./elon/new-58.png
-INPUT elon/new-59.png
-INPUT ./elon/new-59.png
-INPUT elon/new-59.png
-INPUT ./elon/new-59.png
-INPUT ./elon/new-59.png
-INPUT ./elon/new-59.png
-INPUT ./elon/new-59.png
-INPUT elon/new-60.png
-INPUT ./elon/new-60.png
-INPUT elon/new-60.png
-INPUT ./elon/new-60.png
-INPUT ./elon/new-60.png
-INPUT ./elon/new-60.png
-INPUT ./elon/new-60.png
-INPUT elon/new-61.png
-INPUT ./elon/new-61.png
-INPUT elon/new-61.png
-INPUT ./elon/new-61.png
-INPUT ./elon/new-61.png
-INPUT ./elon/new-61.png
-INPUT ./elon/new-61.png
-INPUT elon/new-62.png
-INPUT ./elon/new-62.png
-INPUT elon/new-62.png
-INPUT ./elon/new-62.png
-INPUT ./elon/new-62.png
-INPUT ./elon/new-62.png
-INPUT ./elon/new-62.png
-INPUT elon/new-63.png
-INPUT ./elon/new-63.png
-INPUT elon/new-63.png
-INPUT ./elon/new-63.png
-INPUT ./elon/new-63.png
-INPUT ./elon/new-63.png
-INPUT ./elon/new-63.png
-INPUT elon/new-64.png
-INPUT ./elon/new-64.png
-INPUT elon/new-64.png
-INPUT ./elon/new-64.png
-INPUT ./elon/new-64.png
-INPUT ./elon/new-64.png
-INPUT ./elon/new-64.png
-INPUT elon/new-65.png
-INPUT ./elon/new-65.png
-INPUT elon/new-65.png
-INPUT ./elon/new-65.png
-INPUT ./elon/new-65.png
-INPUT ./elon/new-65.png
-INPUT ./elon/new-65.png
-INPUT elon/new-66.png
-INPUT ./elon/new-66.png
-INPUT elon/new-66.png
-INPUT ./elon/new-66.png
-INPUT ./elon/new-66.png
-INPUT ./elon/new-66.png
-INPUT ./elon/new-66.png
-INPUT elon/new-67.png
-INPUT ./elon/new-67.png
-INPUT elon/new-67.png
-INPUT ./elon/new-67.png
-INPUT ./elon/new-67.png
-INPUT ./elon/new-67.png
-INPUT ./elon/new-67.png
-INPUT elon/new-68.png
-INPUT ./elon/new-68.png
-INPUT elon/new-68.png
-INPUT ./elon/new-68.png
-INPUT ./elon/new-68.png
-INPUT ./elon/new-68.png
-INPUT ./elon/new-68.png
-INPUT elon/new-69.png
-INPUT ./elon/new-69.png
-INPUT elon/new-69.png
-INPUT ./elon/new-69.png
-INPUT ./elon/new-69.png
-INPUT ./elon/new-69.png
-INPUT ./elon/new-69.png
-INPUT elon/new-70.png
-INPUT ./elon/new-70.png
-INPUT elon/new-70.png
-INPUT ./elon/new-70.png
-INPUT ./elon/new-70.png
-INPUT ./elon/new-70.png
-INPUT ./elon/new-70.png
-INPUT elon/new-71.png
-INPUT ./elon/new-71.png
-INPUT elon/new-71.png
-INPUT ./elon/new-71.png
-INPUT ./elon/new-71.png
-INPUT ./elon/new-71.png
-INPUT ./elon/new-71.png
-INPUT elon/new-72.png
-INPUT ./elon/new-72.png
-INPUT elon/new-72.png
-INPUT ./elon/new-72.png
-INPUT ./elon/new-72.png
-INPUT ./elon/new-72.png
-INPUT ./elon/new-72.png
-INPUT elon/new-73.png
-INPUT ./elon/new-73.png
-INPUT elon/new-73.png
-INPUT ./elon/new-73.png
-INPUT ./elon/new-73.png
-INPUT ./elon/new-73.png
-INPUT ./elon/new-73.png
-INPUT elon/new-74.png
-INPUT ./elon/new-74.png
-INPUT elon/new-74.png
-INPUT ./elon/new-74.png
-INPUT ./elon/new-74.png
-INPUT ./elon/new-74.png
-INPUT ./elon/new-74.png
-INPUT elon/new-75.png
-INPUT ./elon/new-75.png
-INPUT elon/new-75.png
-INPUT ./elon/new-75.png
-INPUT ./elon/new-75.png
-INPUT ./elon/new-75.png
-INPUT ./elon/new-75.png
-INPUT elon/new-76.png
-INPUT ./elon/new-76.png
-INPUT elon/new-76.png
-INPUT ./elon/new-76.png
-INPUT ./elon/new-76.png
-INPUT ./elon/new-76.png
-INPUT ./elon/new-76.png
-INPUT oohyeah.jpg
-INPUT ./oohyeah.jpg
-INPUT ./oohyeah.jpg
-INPUT ./oohyeah.jpg
-INPUT ./oohyeah.jpg
-INPUT main.pgf-plot.gnuplot
-OUTPUT main.pgf-plot.gnuplot
-INPUT main.pgf-plot.table
-INPUT main.pgf-plot.table
-INPUT main.pgf-plot.gnuplot
-OUTPUT main.pgf-plot.gnuplot
-INPUT main.pgf-plot.table
-INPUT main.pgf-plot.table
-INPUT diffpay.eps
-INPUT ./diffpay.eps
-INPUT ./diffpay.eps
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT ./diffpay.eps
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT ./diffpay-eps-converted-to.pdf
-INPUT MUGSMUGs.U3D
-INPUT MUGSMUGs.U3D
-INPUT ./MUGSMUGs.U3D
-INPUT ./MUGSMUGs.U3D
-INPUT ./MUGSMUGs.U3D
-INPUT ./MUGSMUGs.U3D
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr6.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt12.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi12.tfm
-INPUT C:/Users/Lenovo/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmss17.tfm
-OUTPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-OUTPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-OUTPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr9.tfm
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-OUTPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-OUTPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT main.vrb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
-INPUT floor.jpg
-INPUT ./floor.jpg
-INPUT ./floor.jpg
-INPUT ./floor.jpg
-INPUT ./floor.jpg
-OUTPUT main.nav
-OUTPUT main.toc
-OUTPUT main.snm
-INPUT main.aux
-INPUT ./main.out
-INPUT ./main.out
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss0800.pk
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss0800.pk
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss0900.pk
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss0900.pk
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1000.pk
-INPUT C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/tcss1000.pk
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb
+PWD c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.tex
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.log
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\preamble.sty
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\preamble.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\physics\physics.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\physics\physics.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\scalerel\scalerel.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\scalerel\scalerel.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\ltxtable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\ltxtable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stackengine\stackengine.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stackengine\stackengine.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\listofitems\listofitems.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\tikzlibrarypgfplots.fillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\tikzlibrarypgfplots.fillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\tikzlibraryfillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\tikzlibraryfillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryintersections.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryintersections.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryintersections.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryintersections.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\tikzlibrarydecorations.softclip.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\tikzlibrarydecorations.softclip.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\pgflibraryfillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\pgflibraryfillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfcontrib\pgflibraryfillbetween.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\tikzlibrarypgfplots.decorations.softclip.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\tikzlibrarypgfplots.decorations.softclip.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.ee.IEC.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.ee.IEC.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.ee.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.ee.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\circuits\tikzlibrarycircuits.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.markings.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.markings.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.markings.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.markings.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\circuits\pgflibraryshapes.gates.ee.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\circuits\pgflibraryshapes.gates.ee.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\circuits\pgflibraryshapes.gates.ee.IEC.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\circuits\pgflibraryshapes.gates.ee.IEC.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\matlab-prettifier\matlab-prettifier.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\matlab-prettifier\matlab-prettifier.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplotstable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplotstable.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstable.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstable.coltype.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendixnumberbeamer\appendixnumberbeamer.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\appendixnumberbeamer\appendixnumberbeamer.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\animate\animate.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\animate\animate.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\zref\zref-abspage.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\zref\zref-abspage.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\zref\zref-base.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\zref\zref-base.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\media9\pdfbase.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\media9\pdfbase.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\media9\media9.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\media9\media9.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.aux
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.aux
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.aux
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.nav
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.nav
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\mugs.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\mugs.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\mugs.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\mugs.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\mugs.png
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss9.tfm
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmss.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmss.fd
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcss1000.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcss0900.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcss0800.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi8.tfm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\ariba.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\ariba.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\ariba.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\ariba.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\ariba.jpg
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss17.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-0.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-1.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-2.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-3.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-4.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-5.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-6.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-7.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-8.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-9.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-10.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-11.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-12.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-13.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-14.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-15.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-16.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-17.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-18.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-19.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-20.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-21.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-22.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-23.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-24.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-25.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-26.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-27.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-28.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-29.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-30.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-31.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-32.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-33.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-34.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-35.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-36.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-37.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-38.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-39.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-40.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-41.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-42.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-43.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-44.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-45.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-46.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-47.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-48.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-49.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-50.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-51.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-52.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-53.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-54.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-55.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-56.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-57.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-58.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-59.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-60.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-61.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-62.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-63.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-64.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-65.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-66.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-67.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-68.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-69.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-70.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-71.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-72.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-73.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-74.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-75.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\elon\new-76.png
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\oohyeah.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\oohyeah.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\oohyeah.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\oohyeah.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\oohyeah.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.gnuplot
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.gnuplot
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.table
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.table
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.gnuplot
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.gnuplot
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.table
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.pgf-plot.table
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\diffpay-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj.eps
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\optimisedTraj-eps-converted-to.pdf
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\MUGSMUGs.U3D
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt9.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi9.tfm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.vrb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\floor.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\floor.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\floor.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\floor.jpg
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\floor.jpg
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.nav
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.toc
+OUTPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.snm
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.aux
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT c:\Users\jackn\Documents\GitHub\PhySoc-AIAA-LaTeX-Seminar\main.out
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss0800.pk
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss0800.pk
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss0900.pk
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss0900.pk
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss1000.pk
+INPUT C:\Users\jackn\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcss1000.pk
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cmextra\cmex9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cmextra\cmex9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt9.pfb
+INPUT C:\Users\jackn\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt9.pfb

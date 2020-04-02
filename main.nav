@@ -65,19 +65,21 @@
 \headcommand {\beamer@framepages {34}{35}}
 \headcommand {\slideentry {3}{0}{12}{36/37}{}{0}}
 \headcommand {\beamer@framepages {36}{37}}
-\headcommand {\slideentry {3}{0}{13}{38/43}{}{0}}
-\headcommand {\beamer@framepages {38}{43}}
-\headcommand {\beamer@sectionpages {19}{43}}
-\headcommand {\beamer@subsectionpages {19}{43}}
-\headcommand {\sectionentry {4}{Other programs to help create nice looking documents in \LaTeX }{44}{Other programs to help create nice looking documents in \LaTeX }{0}}
-\headcommand {\slideentry {4}{0}{1}{44/44}{}{0}}
-\headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {4}{0}{2}{45/48}{}{0}}
-\headcommand {\beamer@framepages {45}{48}}
-\headcommand {\slideentry {4}{0}{3}{49/49}{}{0}}
-\headcommand {\beamer@framepages {49}{49}}
-\headcommand {\beamer@partpages {1}{49}}
-\headcommand {\beamer@subsectionpages {44}{49}}
-\headcommand {\beamer@sectionpages {44}{49}}
-\headcommand {\beamer@documentpages {49}}
-\headcommand {\gdef \inserttotalframenumber {28}}
+\headcommand {\slideentry {3}{0}{13}{38/38}{}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {3}{0}{14}{39/44}{}{0}}
+\headcommand {\beamer@framepages {39}{44}}
+\headcommand {\beamer@sectionpages {19}{44}}
+\headcommand {\beamer@subsectionpages {19}{44}}
+\headcommand {\sectionentry {4}{Other programs to help create nice looking documents in \LaTeX }{45}{Other programs to help create nice looking documents in \LaTeX }{0}}
+\headcommand {\slideentry {4}{0}{1}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {4}{0}{2}{46/49}{}{0}}
+\headcommand {\beamer@framepages {46}{49}}
+\headcommand {\slideentry {4}{0}{3}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@partpages {1}{50}}
+\headcommand {\beamer@subsectionpages {45}{50}}
+\headcommand {\beamer@sectionpages {45}{50}}
+\headcommand {\beamer@documentpages {50}}
+\headcommand {\gdef \inserttotalframenumber {29}}
